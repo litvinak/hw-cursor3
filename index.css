@@ -97,7 +97,7 @@ margin: 16px 42px 16px 120px;
 }
 
 .banner4 {
-    width: 760px;
+    width: 565px;
     height: 72px;
     background-color: #26262B;
     margin-top: 24px;
@@ -122,6 +122,7 @@ margin: 16px 42px 16px 120px;
     font-size: 13px;
     background-color: white;
     margin-left: 50px;
+    margin-right: 24px;
 }
 
 .banner5 {
